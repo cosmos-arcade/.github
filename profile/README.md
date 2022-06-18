@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../assets/logo.png" width="800" />
+    <img src="../assets/logo.png" width="800" />
 </p>
 
 <p align="center">
@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-<img src="../assets/token3d.png" width="100" />
+    <img src="../assets/token3d.png" width="100" />
 </p>
 
