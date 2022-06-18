@@ -1,14 +1,12 @@
 <p align="center">
-    <img src="../assets/logo.png" width="800" />
-</p>
-
-<p align="center">
-    Welcome to the land of fun.
+    <b>COSMOS ARCADE</b>
+    <br><br>
+    This is Cosmos Arcade.
     <br>
+    This is the land of fun.
+    <br>
+    This is on Juno network.
+    <br><br>
     May random numbers be with you.
-</p>
-
-<p align="center">
-    <img src="../assets/token3d.png" width="100" />
 </p>
 
